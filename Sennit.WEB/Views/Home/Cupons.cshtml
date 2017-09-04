@@ -1,0 +1,40 @@
+﻿@*@model IEnumerable<Sennit.Domain.MapEntities.Entities.Cupon>*@
+
+@{
+    ViewBag.Title = "Cupons";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/angular-block-ui.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/angular.js"></script>
+<script src="~/Scripts/angular-block-ui.js"></script>
+<script src="~/Scripts/ui-grid.js"></script>
+<script src="~/api/JsWebApi/Cupon.js"></script>
+
+<div ng-controller="CtrlCupon">
+    <div class="container">
+        <h2>Striped Rows</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>PREMIO</th>
+                    <th>DESCRIÇÃO</th>
+                    <th>NOME USUARIO</th>
+                    <th>CODIGO CUPON</th>
+                    <th>CUPON PREMIADO</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="x in Cupons">
+                    <td>{{ x.Premio }}</td>
+                    <td>{{ x.descricao }}</td>
+                    <td>{{ x.nome_usuario }}</td>
+                    <td>{{ x.CodigoCupon }}</td>
+                    <td>{{ x.CUPON_PREMIADO }}</td>
+                </tr>
+            </tbody>
+          </table>
+       </div>
+    </div>

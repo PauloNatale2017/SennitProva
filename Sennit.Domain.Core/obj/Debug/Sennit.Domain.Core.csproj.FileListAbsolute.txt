@@ -1,0 +1,108 @@
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.dll.config
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.pdb
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Castle.Core.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.Extensions.Factory.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.DataAccessLayer.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Helpers.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Expressions.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Extensions.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Razor.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Razor.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.DataAccessLayer.pdb
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.pdb
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Castle.Core.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.Extensions.Factory.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Helpers.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Extensions.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Razor.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Razor.xml
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.csprojResolveAssemblyReference.cache
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.dll
+c:\Users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.dll.config
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Castle.Core.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.Extensions.Factory.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.DataAccessLayer.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Expressions.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.DataAccessLayer.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Castle.Core.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.Extensions.Factory.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.dll.config
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.Core.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Castle.Core.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.Extensions.Factory.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.DataAccessLayer.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Expressions.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.DataAccessLayer.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Sennit.Domain.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Castle.Core.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\Ninject.Extensions.Factory.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.Domain.Core\obj\Debug\Sennit.Domain.Core.pdb

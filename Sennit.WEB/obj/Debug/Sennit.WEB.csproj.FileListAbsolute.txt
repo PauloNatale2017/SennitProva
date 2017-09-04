@@ -1,0 +1,208 @@
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\csc.exe
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\vbc.exe
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\VBCSCompiler.exe
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.dll.config
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.pdb
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Antlr3.Runtime.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Newtonsoft.Json.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Net.Http.Formatting.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Helpers.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.WebHost.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Mvc.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Optimization.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Razor.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Deployment.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Razor.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\WebGrease.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Helpers.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Mvc.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Optimization.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Razor.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Deployment.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Razor.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Antlr3.Runtime.pdb
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Newtonsoft.Json.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Net.Http.Formatting.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.WebHost.xml
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.dll
+c:\users\mary s takahashi\documents\visual studio 2015\Projects\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.pdb
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.dll
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.pdb
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.Core.dll
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.DataAccessLayer.dll
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Ninject.dll
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\EntityFramework.dll
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.Core.pdb
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Sennit.DataAccessLayer.pdb
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\Ninject.xml
+C:\Users\Mary S Takahashi\Documents\Visual Studio 2015\Projects\Sennit.WEB\Sennit.WEB\bin\EntityFramework.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\csc.exe
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\vbc.exe
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.dll.config
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Antlr3.Runtime.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Newtonsoft.Json.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.Core.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Helpers.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Mvc.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Optimization.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Razor.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\WebGrease.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.DataAccessLayer.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Ninject.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\EntityFramework.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.Core.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Helpers.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Mvc.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Optimization.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Razor.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Newtonsoft.Json.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Sennit.DataAccessLayer.pdb
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\Ninject.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\bin\EntityFramework.xml
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.csprojResolveAssemblyReference.cache
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.dll
+C:\Users\paulo.natale\Desktop\Projecteg\xa\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\csc.exe
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\vbc.exe
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.dll.config
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.WEB.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Antlr3.Runtime.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Newtonsoft.Json.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.Core.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Helpers.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Mvc.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Optimization.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Razor.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\WebGrease.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.DataAccessLayer.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\EntityFramework.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Ninject.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.Core.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.Domain.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Newtonsoft.Json.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Helpers.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Mvc.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Optimization.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Razor.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.DataAccessLayer.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\EntityFramework.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Ninject.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\obj\Debug\Sennit.WEB.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Cors.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Owin.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Cors.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Cors.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\csc.exe.config
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\csc.rsp
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\csi.exe
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\csi.rsp
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\vbc.exe.config
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\roslyn\vbc.rsp
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.ServerWebApi.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.Owin.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Sennit.ServerWebApi.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\System.Web.Http.Owin.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.pdb
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mary S Takahashi\Desktop\Sennit.WEB\Sennit.WEB\Sennit.WEB\bin\Microsoft.Owin.Security.Cookies.xml

@@ -1,0 +1,45 @@
+﻿@*@model Sennit.Domain.MapEntities.EntitiesViewModel.CuponViewModel*@
+
+@{
+    ViewBag.Title = "CadastrarCupon";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<script src="~/api/JsWebApi/Cupon.js"></script>
+
+
+<div class="container"  ng-controller="CtrlCupon">
+    <hr />
+    <h2>CADASTRO DE CUPONS</h2>
+    <hr />
+        <div class="form-group">
+           
+                <div class="row">
+                    <span>PREMIO</span>
+                    <input type="text" ng-model="Cupon.Premio" class="form-control" >
+                </div>
+                <div class="row">
+                    <span>DESCRIÇÃO</span>
+                    <input type="text" ng-model="Cupon.descricao" class="form-control">
+                </div>
+                <div class="row">
+                    <span>CODIGO CUPON</span>
+                    <input type="text" ng-model="Cupon.CodigoCupon" disabled="disabled" class="form-control" placeholder="Codigo sera gerado Automatico..." >
+                </div>
+                <br />
+                
+                <div class="row">
+                   <span>CUPON PREMIADO</span><input type="checkbox" ng-model="Cupon.CUPON_PREMIADO" style="float:left;margin-left:10px;">
+                </div>
+            
+            </div>
+            <br /><br /><hr />
+       
+            <div class="col-lg-10 col-sm-offset-3" style="float:none;margin-top:-20px;">
+                    <input type="button" ng-click="CadastroCupon()" class="btn btn-primary" value="Cadastrar Cupon">
+            </div>
+         
+   
+</div>
+

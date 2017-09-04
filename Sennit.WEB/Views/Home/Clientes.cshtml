@@ -1,0 +1,39 @@
+﻿@*@model IEnumerable<Sennit.Domain.MapEntities.Entities.Cliente>*@
+
+@{
+    ViewBag.Title = "Clientes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/angular.js"></script>
+<script src="~/Scripts/angular-block-ui.js"></script>
+<script src="~/Scripts/ui-grid.js"></script>
+<script src="~/api/JsWebApi/Cliente.js"></script>
+
+    <div ng-controller="CtrlCliente">
+        <div class="container">
+            <h2>Striped Rows</h2>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Email</th>
+                        <th>CPF</th>
+                        <th>telefone</th>
+                        <th>password</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="x in Cliente">
+                        <td>{{ x.Nome }}</td>
+                        <td>{{ x.Email }}</td>
+                        <td>{{ x.CPF }}</td>
+                        <td>{{ x.telefone }}</td>
+                        <td>{{ x.password }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
