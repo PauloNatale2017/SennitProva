@@ -40,7 +40,7 @@ namespace Sennit.Domain.Core.Repository
         {
             _ctx.Set<TEntity>().Attach(obj);
             _ctx.Entry(obj).State = System.Data.Entity.EntityState.Modified;
-
+            _ctx.SaveChanges();
         }
 
         public void SaveAll()
@@ -52,6 +52,7 @@ namespace Sennit.Domain.Core.Repository
         {
             _ctx.Set<TEntity>().Add(obj);
             _ctx.SaveChanges();
+
         }
 
         public void Exclude(Func<TEntity, bool> predicate)

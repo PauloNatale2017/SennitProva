@@ -14,5 +14,7 @@ namespace Sennit.Domain.MapEntities.Entities
         public string nome_usuario { get; set; }
         public string CodigoCupon { get; set; }
         public bool CUPON_PREMIADO { get; set; }
+        public bool PREMIO_SORTEADO { get; set; }
+        public DateTime? DataSorteado { get; set; }
     }
 }

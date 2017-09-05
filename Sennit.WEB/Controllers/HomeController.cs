@@ -13,15 +13,14 @@ namespace Sennit.WEB.Controllers
     public class HomeController : Controller
     {
         //private readonly RepositoryGeneric _rep = new RepositoryGeneric();
-               
-        public ActionResult Index()
-        {
-            if (User.Identity.IsAuthenticated == true)
-            {
-                return RedirectToAction("Home/Login");
-            }
 
-            return View();
+        public ActionResult Index(string id)
+        {
+            if (id == "Admin")
+            {
+                return View();
+            }
+            return RedirectToAction("/Login");
         }
 
         public ActionResult Cupons()
@@ -34,6 +33,7 @@ namespace Sennit.WEB.Controllers
             return View();
         }
 
+        [Authorize]
         [AllowAnonymous]
         public ActionResult Login()
         {

@@ -13,7 +13,7 @@ namespace Sennit.Domain.BaseEntity
         public int ID { get; set; }
         public DateTime DataCriacao { get; set; }
         public DateTime DataAtualizacao { get; set; }
-              
+      
 
 
     }

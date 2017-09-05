@@ -14,10 +14,27 @@ namespace Sennit.DataAccessLayer.Migrations
 
         protected override void Seed(Sennit.DataAccessLayer.dbContext.dbContext context)
         {
-            //  This method will be called after migrating to the latest version.
+            context._Cliente.AddOrUpdate(x => x.ID, new Domain.MapEntities.Entities.Cliente
+                      {
+                        id_Login = null,
+                        Nome = "Admin",
+                        Email = "sennit@sennit.com",
+                        CPF = "12345",
+                        telefone = "44121939",
+                        password = "",
+                        access = "Admin",
+                        DataCriacao = DateTime.Now,
+                        DataAtualizacao = DateTime.Now,                       
+                        QtdCuponsCadastrados = 0});
 
-            //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
-            //  to avoid creating duplicate seed data.
+            context._Login.AddOrUpdate(x => x.ID, new Domain.MapEntities.Entities.Login
+            {
+                User = "Admin",
+                Password = "Admin",
+                access = "Admin",
+                DataCriacao = DateTime.Now,
+                DataAtualizacao = DateTime.Now               
+            });
         }
     }
 }

@@ -33,6 +33,7 @@ namespace Sennit.Domain.MapEntities.EntitiesViewModel
 
      
         public string access { get; set; }
+        public int QtdCuponsCadastrados { get; set; }
         //[Required]
         //[Display(Name = "Cupons")]
         //[DataType(DataType.MultilineText)]

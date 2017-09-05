@@ -15,7 +15,7 @@ using System.Web.Http;
 
 namespace Sennit.ServerWebApi.Controllers
 {
-    //[Authorize(Roles = "user")]
+    [Authorize]
     [RoutePrefix("api/webapi/Cliente")]
     public class ClienteController : ApiController
     {

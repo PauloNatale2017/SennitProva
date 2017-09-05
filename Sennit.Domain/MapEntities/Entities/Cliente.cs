@@ -16,7 +16,7 @@ namespace Sennit.Domain.MapEntities.Entities
         //public List<Cupon> Cupons { get; set; }
         public int?  id_Login { get; set; }
         public string access { get; set; }
-
+        public int QtdCuponsCadastrados { get; set; }
         //public Cliente()
         //{
         //    this.Cupons = new List<Cupon>();

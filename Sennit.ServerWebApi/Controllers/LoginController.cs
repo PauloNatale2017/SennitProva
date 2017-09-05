@@ -15,7 +15,7 @@ using System.Web.Http;
 
 namespace Sennit.ServerWebApi.Controllers
 {
-   // [Authorize(Roles = "user")]
+    [Authorize]
     [RoutePrefix("api/webapi/login")]
     public class LoginController : ApiController
     {
@@ -68,22 +68,25 @@ namespace Sennit.ServerWebApi.Controllers
             return _rep._LoginRepository.GetAll().ToList();
         }
 
+       
         // GET api/<controller>
         //[System.Web.Http.Authorize]
         [System.Web.Http.AcceptVerbs("POST")]
         public Login getAccount(Login Cadastro)
-        {
-            var User = _rep._LoginRepository.Get(d => d.User == Cadastro.User || d.Password == Cadastro.Password).SingleOrDefault();
-            if (User != null)
+        {           
+            if (Cadastro.User != null && Cadastro.Password != null)
             {
-
-                return User;
+                var  User = _rep._LoginRepository.Get(d => d.User == Cadastro.User || d.Password == Cadastro.Password).SingleOrDefault();
+                if (User != null)
+                {
+                    return User;
+                }
+                else
+                {
+                    return null;
+                }
             }
-            else
-            {
-                return null;
-            }
-
+            return null;
         }
 
         //[System.Web.Http.Authorize]
@@ -98,12 +101,14 @@ namespace Sennit.ServerWebApi.Controllers
                 entity.DataAtualizacao = DateTime.Now;
                 entity.DataCriacao = DateTime.Now;
                 entity.access = "user";
+                entity.QtdCuponsCadastrados = 0;
 
                 _rep._ClienteRepository.Add(entity);
                 _rep._LoginRepository.Add(new Login
                 {
-                    User = entity.Email,
+                    User = entity.Nome,
                     Password = entity.CPF,
+                    access = "user",
                     DataAtualizacao = DateTime.Now,
                     DataCriacao = DateTime.Now
                 });
